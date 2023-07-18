@@ -1,0 +1,14 @@
+### Requirement and functions which i want for this project
+//Light and Dark theme
+->HTML Page
+-> Switching between light/Dark Mode
+-> Three option toggle: light/dark/system pref
+
+//CSS Variables
+- Prefer - COlor- Scheme Media query
+
+// Accessiblity
+-> Use correct Heading Tags
+- Screenreader - only text for card titles/
+
+Update CSS and HTML from Javascript
